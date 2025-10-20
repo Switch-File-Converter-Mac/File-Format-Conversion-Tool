@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/switch">  
+<a href="https://astridduday3108.github.io/.github/switch">  
 <img src="https://img.shields.io/badge/Get_Switch_File_Converter-darkgreen?style=for-the-badge&logo=apple" alt="Get Switch File Converter">  
 </a>  
 </div>  
